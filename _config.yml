@@ -9,38 +9,16 @@ description: "Electrical, robotics, and computer engineer. Wow what a profession
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Harry Jackson
   pic: 1
-  position: Lead Designer
+  position: Best boi
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: # harrychowjackson
+    - title: github
+      url: # harrychowjackson
+    - title: instagram
+      url: # harrychowjackson
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
