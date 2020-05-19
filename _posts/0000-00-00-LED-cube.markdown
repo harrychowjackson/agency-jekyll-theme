@@ -1,6 +1,6 @@
 ---
 title: LED Cube
-subtitle: Website Design
+subtitle: 8x8x8 RGB LEDs - 2048 lights!
 layout: default
 modal-id: 2
 date: April 2019
@@ -10,6 +10,5 @@ alt: image-alt
 project-date: April 2019
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: I tried for a long time to build a LED cube from scratch, but a kit was more cost effective. In order to drive such a huge number of pins with a reasonal number of microcontroller IOs, the LED states are written row by row into flip-flop latches, and only one layer is lit at a time. This happens quickly enough, however, that the entire cube can appear lit and animated, refreshing at 20+ Hz.
 ---

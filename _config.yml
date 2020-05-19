@@ -4,30 +4,30 @@ baseurl: ""
 # Site settings
 title: Harry Jackson
 email: harrychowjackson@gmail.com
-description: "Electrical, robotics, and computer engineer. Wow what a professional site, I'd hire this guy."
+description: "Robotics, electrical, and computer engineer."
 
 
 # Team names, titles and social links
 people:
 - name: Harry Jackson
   pic: 1
-  position: Best boi
+  position: "A right good lad"
   social:
-    - title: facebook
-      url: # harrychowjackson
     - title: github
-      url: # harrychowjackson
+      url: http://github.com/harrychowjackson
+    - title: facebook
+      url: http://facebook.com/harrychowjackson
     - title: instagram
-      url: # harrychowjackson
+      url: http://instagram.com/harrychowjackson
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/harrychowjackson
-  - title: facebook
-    url: http://facebook.com/harrychowjackson
   - title: github
     url: http://github.com/harrychowjackson
+  - title: facebook
+    url: http://facebook.com/harrychowjackson
+  - title: instagram
+    url: http://instagram.com/harrychowjackson
 
 # Postal address (add as many lines as necessary)
 address:

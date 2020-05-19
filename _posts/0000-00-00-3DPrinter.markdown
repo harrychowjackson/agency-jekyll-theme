@@ -1,0 +1,15 @@
+---
+title: Reprap 3D Printer
+subtitle: No kit! From scratch
+layout: default
+modal-id: 5
+date: 2019-04-19
+img: 3DPrinter.jpg
+thumbnail: 3DPrinter-thumb.jpg
+alt: image-alt
+project-date: April 2019
+client: 
+category: 
+description: made a 3d printer 
+
+---

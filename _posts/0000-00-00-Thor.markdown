@@ -4,8 +4,8 @@ subtitle: 6 DOF, 590mm reach
 layout: default
 modal-id: 1
 date: 2020-05-14
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: thor.jpg
+thumbnail: thor-thumb.jpg
 alt: image-alt
 project-date: April 2020
 client: ""
