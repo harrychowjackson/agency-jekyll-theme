@@ -10,6 +10,5 @@ alt: image-alt
 project-date: April 2020
 client: ""
 category: ""
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: This is an <a href="https://hackaday.io/project/12989-thor">open source design</a> that I chose to build as a learning exercise. As many parts as possible were made with 3D printing. </br> I made the following two additions&#58 A <a href="https://github.com/harrychowjackson/thor_arm_controller">ROS controller</a> that can follow a trajectory in a <a href="https://github.com/b-adkins/thor_arm_moveit">MoveIt! Simulation</a> or control the arm <a href="https://github.com/harrychowjackson/thor_arm_controller/blob/master/src/thor_arm_controller_joystick.cpp">manually with a gamepad.</a>.
 ---
