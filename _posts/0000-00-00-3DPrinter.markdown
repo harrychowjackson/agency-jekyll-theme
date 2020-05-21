@@ -3,13 +3,13 @@ title: Reprap 3D Printer
 subtitle: No kit! From scratch
 layout: default
 modal-id: 5
-date: 2019-04-19
+date: 2016-04-19
 img: 3DPrinter.jpg
 thumbnail: 3DPrinter-thumb.jpg
 alt: image-alt
-project-date: April 2019
+project-date: March 2016
 client: 
 category: 
-description: made a 3d printer 
+description: This 3D printer closely follows the very common Prusa i3 design, but was mostly adapted (read: scrapped together) from available parts. As you can see, however, it proves itself with quality output. My passion for 3D printing eventually segued into a role as a fundraiser selling printed objects for my university's IEEE chapter. 
 
 ---
