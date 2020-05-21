@@ -10,6 +10,6 @@ alt: image-alt
 project-date: March 2016
 client: 
 category: 
-description: This 3D printer closely follows the very common Prusa i3 design, but was mostly adapted (read: scrapped together) from available parts. As you can see, however, it proves itself with quality output. My passion for 3D printing eventually segued into a role as a fundraiser selling printed objects for my university's IEEE chapter. 
+description: This 3D printer closely follows the very common Prusa i3 design, but was mostly adapted (read&#58 scrapped together) from available parts. As you can see, however, it proves itself with quality output. My passion for 3D printing eventually segued into a role as a fundraiser selling printed objects for my university's IEEE chapter. 
 
 ---
